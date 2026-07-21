@@ -1,29 +1,25 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
-port: 4000
-description: >-
-  Add your app's description here.
+id: BitcoinValue
+name: Bitcoin Value (BTCV) Node
+tagline: Bitcoin Value Node. This is a general node app for Bitcoin Value and can be used to in conjunction with mining pool software to solo mine, or just be ran standalone to help contribute to the Bitcoin network.
+icon: https://avatars.githubusercontent.com/u/241624342?v=4
+category: Mining Nodes
+version: "1.0.2"
+port: 5087
+description: |
+  Bitcoin VALUE Node. This is a general node app for Bitcoin and can be used to in conjunction with mining pool software to solo mine, or just be ran standalone to help contribute to the Bitcoin network.
 
 
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: G5
+website: 
+submitter: 
+submission: 
+repo: https://github.com/BitcoinValueProject/Bitcoin-value-core
+support: 
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://avatars.githubusercontent.com/u/241624342?v=4
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  2026.02.28 - Initial Release
 dependencies: []
 path: ""
 defaultUsername: ""
